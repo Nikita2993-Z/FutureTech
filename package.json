@@ -1,0 +1,23 @@
+{
+  "name": "futuretech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikita2993-Z/FutureTech.git"
+  },
+  "author": "Zinchenko Nikita <zinchenko.nikita93@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikita2993-Z/FutureTech/issues"
+  },
+  "homepage": "https://github.com/Nikita2993-Z/FutureTech#readme",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
+}
